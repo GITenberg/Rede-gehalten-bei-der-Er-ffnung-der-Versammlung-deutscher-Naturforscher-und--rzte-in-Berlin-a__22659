@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1995
     wikipedia: http://en.wikipedia.org/wiki/Alexander_von_Humboldt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22659#Rede-gehalten-bei-der-Er-ffnung-der-Versammlung-deutscher-Naturforscher-und--rzte-in-Berlin-a_
 gutenberg_bookshelf:
 - DE Sachbuch
 - German Language Books
