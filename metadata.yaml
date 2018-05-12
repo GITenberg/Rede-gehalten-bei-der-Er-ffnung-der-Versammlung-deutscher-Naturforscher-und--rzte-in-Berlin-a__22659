@@ -1,0 +1,39 @@
+_repo: Rede-gehalten-bei-der-Er-ffnung-der-Versammlung-deutscher-Naturforscher-und--rzte-in-Berlin-a__22659
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Humboldt, Alexander von
+    aliases:
+    - Von Humboldt, Alexander
+    - Humboldt, Friedrich Wilhelm Heinrich Alexander von
+    birthdate: 1769
+    deathdate: 1859
+    gutenberg_agent_id: '1995'
+    url: http://www.gutenberg.org/2009/agents/1995
+    wikipedia: http://en.wikipedia.org/wiki/Alexander_von_Humboldt
+description: ''
+gutenberg_bookshelf:
+- DE Sachbuch
+- German Language Books
+gutenberg_issued: '2007-09-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22659'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Speeches, addresses, etc.'
+- !lcc 'Q'
+title: Rede, gehalten bei der Eröffnung der Versammlung deutscher Naturforscher und
+  Ärzte in Berlin, am 18. September 1828
+titlepage_image:
+  cover_type: titlepage_image
+  image_path: 22659/22659-page-images/cover.tif
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+url: http://www.gutenberg.org/ebooks/22659
